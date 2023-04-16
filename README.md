@@ -48,7 +48,7 @@ You drift around the corners beating opponent after another,<br> while trying to
 ### C++ projects
 <table>
   <tr>
-    <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <img src="Assets/ParticleSimulation.png" width=500px> </a> <br> </a> </th> 
+    <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <img src="Assets/ParticleSimulation.png" width=400px> </a> <br> </a> </th> 
     <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <b> Particle Simulation</b></a> is a pretty recent project. <br> This was my first ever C++ project, so it took a while. <br> It has the capacity to simulate nearly 10000 particles. <br> I used C++ and OpenGL for this. <br></th>
   </tr>
 </table>
