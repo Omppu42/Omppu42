@@ -19,12 +19,12 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
 <table>
   <tr>
     <th> <a href="https://omppu42.itch.io/drifty-rocket"> <img src="Assets/DriftyRocket1.png" width=500px> </a> </th> 
-    <th> <a href="https://omppu42.itch.io/drifty-rocket"> <b> Drifty Rocket</b></a> was my first game that I published. <br> You control a rocket that needs to fight the gravity and reach the finish. <br> The faster you finish, the better. You can collect stars, which are progressively more difficult. <br> </th>
+    <th> <a href="https://omppu42.itch.io/drifty-rocket"> <b> Drifty Rocket</b></a> was my first game that I published. <br> You control a rocket that needs to fight the gravity <br> and reach the finish line. <br> The faster you finish, the better. You can collect stars, which get progressively more difficult. <br> </th>
   </tr>
   <tr>
     <th> <a href="https://omppu42.itch.io/drifty-car"> <img src="Assets/DriftyCar.png" width=500px> </a> <br> </th>
     <th> <a href="https://omppu42.itch.io/drifty-car"><b> Drifty Car</b></a> was made in 1 week for <i> Brackeys Game Jam 2023.1</i>. <br>
-In the game, you drift around the corners beating opponent after another,<br> while trying to set a new personal best each time!<br> </th>
+You drift around the corners beating opponent after another,<br> while trying to set a new personal best each time!<br> </th>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ In the game, you drift around the corners beating opponent after another,<br> wh
   </tr>
   <tr>
     <th> <a href="https://github.com/Omppu42/LaserSimulation"> <img src="Assets/LaserSimulation.png" width=500px> </a> <br> </th>
-    <th> <a href="https://github.com/Omppu42/LaserSimulation"><b> Lazer Simulation</b></a> is my latest project. <br>This time I wanted to focus on developing a   friendly user interface, <br>so that users could play around more freely and easily. <br> I can confidently say that I accomplished that goal.</th>
+    <th> <a href="https://github.com/Omppu42/LaserSimulation"><b> Lazer Simulation</b></a> is my latest project. <br>I wanted to focus on developing a   friendly user interface, <br>so that users could play around more freely and easily. <br> I can confidently say that I accomplished that goal.</th>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ In the game, you drift around the corners beating opponent after another,<br> wh
 <table>
   <tr>
     <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <img src="Assets/ParticleSimulation.png" width=500px> </a> <br> </a> </th> 
-    <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <b> Particle Simulation</b></a> is a pretty recent project. <br> This was my first ever C++ program, so it took quite a while. <br> It has the capacity to simulate nearly 10000 particles. <br> I used C++ and OpenGL for this. <br></th>
+    <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <b> Particle Simulation</b></a> is a pretty recent project. <br> This was my first ever C++ project, so it took a while. <br> It has the capacity to simulate nearly 10000 particles. <br> I used C++ and OpenGL for this. <br></th>
   </tr>
 </table>
 
