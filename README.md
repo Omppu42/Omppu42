@@ -27,7 +27,7 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
   </tr>
   <tr align="left">
     <th align="center"> 🚀 Latest project </th> 
-    <th> <a href="#laser_sim"> 🖥️ Laser Simulation </a> </th>
+    <th> <a href="#python"> 🖥️ Laser Simulation </a> </th>
     <th> A simulation that simulates a laser </th>
   </tr>
 </table>
@@ -59,7 +59,7 @@ You drift around the corners beating opponent after another,<br> while trying to
     <th> <a href="https://github.com/Omppu42/TilemapEditor"> <img src="Assets/TilemapEditor.png" width=500px> </a> <br> </a> </th> 
     <th> <a href="https://github.com/Omppu42/TilemapEditor"> <b> Tilemap Editor</b></a> was my first real project. <br> I finished it after 2 months of intence developing. <br> It's an utility tool for creating tilemaps, that has all sorts of interesting features. </th>
   </tr>
-  <tr id="laser_sim" style="padding-top: 40px; margin-top: -40px;">
+  <tr id="laser_sim">
     <th> <a href="https://github.com/Omppu42/LaserSimulation"> <img src="Assets/LaserSimulation.png" width=500px> </a> <br> </th>
     <th> <a href="https://github.com/Omppu42/LaserSimulation"><b> Lazer Simulation</b></a> is my latest project. <br>I wanted to focus on developing a   friendly user interface, <br>so that users could play around more freely and easily. <br> I can confidently say that I accomplished that goal.</th>
   </tr>
