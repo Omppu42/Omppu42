@@ -27,7 +27,7 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
   </tr>
   <tr align="left">
     <th align="center"> 🚀 Latest project </th> 
-    <th> <a href="#laser_sim"> 🖥️ Laser Simulation </a> </th>
+    <th> <a href="#python"> 🖥️ Laser Simulation </a> </th>
     <th> A simulation that simulates a laser </th>
   </tr>
 </table>
@@ -38,7 +38,7 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
 
 ### Unity and C# Projects
 
-<table>
+<table id="unity">
   <tr id="dirfty_rocket">
     <th> <a href="https://omppu42.itch.io/drifty-rocket"> <img src="Assets/DriftyRocket1.png" width=500px> </a> </th> 
     <th> <a href="https://omppu42.itch.io/drifty-rocket"> <b> Drifty Rocket</b></a> was my first game that I published. <br> You control a rocket that needs to fight the gravity <br> and reach the finish line. <br> The faster you finish, the better. You can collect stars, which get progressively more difficult. <br> </th>
@@ -54,7 +54,7 @@ You drift around the corners beating opponent after another,<br> while trying to
 
 ### Python and Pygame projects
 
-<table>
+<table id="python">
   <tr id="tilemap_editor">
     <th> <a href="https://github.com/Omppu42/TilemapEditor"> <img src="Assets/TilemapEditor.png" width=500px> </a> <br> </a> </th> 
     <th> <a href="https://github.com/Omppu42/TilemapEditor"> <b> Tilemap Editor</b></a> was my first real project. <br> I finished it after 2 months of intence developing. <br> It's an utility tool for creating tilemaps, that has all sorts of interesting features. </th>
@@ -68,7 +68,7 @@ You drift around the corners beating opponent after another,<br> while trying to
 ----
 
 ### C++ projects
-<table>
+<table id="c++">
   <tr id="particle_sim">
     <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <img src="Assets/ParticleSimulation.png" width=500px> </a> <br> </a> </th> 
     <th> <a href="https://github.com/Omppu42/ParticleSimulation"> <b> Particle Simulation</b></a> is a pretty recent project. <br> This was my first ever C++ project, so it took a while. <br> It has the capacity to simulate nearly 10000 particles. <br> I used C++ and OpenGL for this. <br></th>
