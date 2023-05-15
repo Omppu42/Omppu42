@@ -5,12 +5,11 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
 
 
 ## What I code with?
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![Pygame](https://img.shields.io/badge/PyGame-green?style=for-the-badge) <br>
-![Unity](https://img.shields.io/badge/Unity-gray?style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge) <br>
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&style=for-the-badge)
+![Pygame](https://img.shields.io/badge/PyGame-green?logo=python&logoColor=white&style=for-the-badge) <br>
+![Unity](https://img.shields.io/badge/Unity-gray?logo=unity&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-purple?logo=csharp&logoColor=white&style=for-the-badge) <br>
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2b%2b&style=for-the-badge)
 <br>
 
 # Featured
