@@ -1,7 +1,7 @@
 # Hello👋 good to see you! <br>
 
 Welcome to my Profile! <br>
-I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png" width=15px/> <b>Helsinki, Finland</b>. <br>
+I'm <b>Roman</b>, a 17 year-old programmer from <img src="Assets/FinnishFlag.png" width=15px/> <b>Helsinki, Finland</b>. <br>
 
 
 ## What do I code with?
@@ -21,8 +21,8 @@ I'm <b>Roman</b>, a 16 year-old programmer from <img src="Assets/FinnishFlag.png
   </thead>
   <tr align="left">
     <th align="center"> 💻 Currently working on </th> 
-    <th> 🎮 Drifty Ball </th>
-    <th> A platformer where you control a ball </th>
+    <th align="center"> <a href="https://github.com/Omppu42/TilemapEditor"> 🖌Tilemap Editor </a> </th>
+    <th align="center"> Software for creating tilemaps </th>
   </tr>
   <tr align="left">
     <th align="center"> 🚀 Latest project </th> 
@@ -56,7 +56,7 @@ You drift around the corners beating opponent after another,<br> while trying to
 <table id="python">
   <tr id="tilemap_editor">
     <th> <a href="https://github.com/Omppu42/TilemapEditor"> <img src="Assets/TilemapEditor.png" width=500px> </a> <br> </a> </th> 
-    <th> <a href="https://github.com/Omppu42/TilemapEditor"> <b> Tilemap Editor</b></a> was my first real project. <br> I finished it after 2 months of intense developing. <br> It's an utility tool for creating tilemaps, that has all sorts of interesting features. </th>
+    <th> <a href="https://github.com/Omppu42/TilemapEditor"> <b> Tilemap Editor</b></a> was my first real project. <br> A big project: I'm still working on it here and there. <br> It's a utility tool for creating tilemaps, that has all sorts of interesting features. </th>
   </tr>
   <tr id="laser_sim">
     <th> <a href="https://github.com/Omppu42/LaserSimulation"> <img src="Assets/LaserSimulation.png" width=500px> </a> <br> </th>
